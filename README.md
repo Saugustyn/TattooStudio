@@ -1,5 +1,5 @@
 # SimpleCV
->This project is a simple prototype database for the tattoo studio.
+>This project is a simple prototype of database for the tattoo studio.
 ## About the project
 The main intetnion was to refresh knowledge about relational databases and practice T-SQL.  
 ## Structure
