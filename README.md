@@ -7,4 +7,4 @@ The .sql file contains a script that creates and feeds the database,|
 while the .pdf file contains the documentation, containing the structure, sample queries, or stored procedures.
 ## Technologies
 Project is created with:
-*T-SQL
+* T-SQL
